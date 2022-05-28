@@ -1,6 +1,10 @@
 # Retag
 Easier bulk file renaming and retagging on the command line.
 
+I know there is a 3 liner with the sed tool for bulk renaming but you better get it
+right the first time. There is big room for error with it and I wanted something a
+a little more forgiving.
+
 Uses Golangs regex syntax. See https://golang.org/s/re2syntax
 
 This is super early development and the flags will probably change.
